@@ -57,4 +57,30 @@ Requirement Analysis consists of several critical activities that ensure the sof
 - **Review and Approval:** Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
 - **Acceptance Criteria:** Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 - **Traceability:** Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+- ## Types of Requirements
+
+In software engineering, requirements are categorized into two main types: **Functional** and **Non-functional**. Both are essential for developing a complete and user-friendly system.
+
+### 1. Functional Requirements
+
+Functional requirements define **what the system should do**. These are specific behaviors, functions, or tasks the system must perform.
+
+#### Examples for a Booking Management System:
+- Users should be able to create new bookings.
+- Admins should be able to add or remove listings.
+- The system should send confirmation emails after successful bookings.
+- Users should be able to view, edit, or cancel their bookings.
+- Payment gateway integration to process customer payments.
+
+### 2. Non-functional Requirements
+
+Non-functional requirements define **how the system performs** a certain function. These relate to performance, usability, reliability, and other quality attributes.
+
+#### Examples for a Booking Management System:
+- The system should load the homepage in under 2 seconds.
+- The application must be available 99.9% of the time.
+- The platform should be accessible from both mobile and desktop browsers.
+- All user data must be encrypted using industry standards.
+- The system must support up to 10,000 concurrent users.
+
 
