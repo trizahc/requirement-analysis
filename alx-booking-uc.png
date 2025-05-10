@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2">
+  <diagram name="Page-1" id="QjjBZdj_8KWwCum6cd_4">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2aHO-TZcARnwDQrgVjmD-1" value="+-------------------+                      +-------------------+ &#xa;       |     Customer      |                      |       Admin       | &#xa;       +-------------------+                      +-------------------+ &#xa;                 |                                         | &#xa;                 |                                         | &#xa;    --------------------------------        -------------------------------- &#xa;   | Book Ticket                | |      | Add Listing               | | &#xa;   | View Booking              | |      | Remove Listing            | | &#xa;   | Edit Booking              | |      | View All Bookings         | | &#xa;   | Cancel Booking            | |      | Confirm Booking           | | &#xa;    --------------------------------        --------------------------------" style="text;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="260" width="290" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
